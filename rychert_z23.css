@@ -1,0 +1,31 @@
+p {
+color: blue;
+font-size: 22 pt;
+ }
+p#pogrubienie_rychert {
+color: #e95c6e;
+font-size: 32px;
+bold: true;
+ }
+  p#pochylona_rychert {
+color: #e9c01e;
+font-size: 37px;
+ }
+   p#index_gorny_rychert {
+color: #998e1e;
+font-size: 1.2cm;
+ }
+    p#index_dolny_rychert {
+color: hsl(169, 72%, 82%);
+font-size: 1.9cm;
+ }
+    p#mono_rychert {
+color: #19de6e;
+font-size: 42px;
+ }
+     p#powiekszenie_rychert {
+color: #533ea0;
+ }
+    p#pomniejszenie_rychert {
+color: hsl(50, 51%, 48%);
+ }
