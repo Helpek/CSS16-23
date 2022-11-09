@@ -1,0 +1,65 @@
+---------------------
+szerokoœæ 400pt
+wysokoœæ 3cm
+kolor trzech elementów?Odcienie koloru ¿ó³tego
+kolor obramowania
+górny?2
+dolny?5
+lewy?11
+prawy?14
+styl obramowania?5 5. "groove" - obramowanie w postaci linii z rowkiem
+---------
+szerokoœæ 280pt
+wysokoœæ 4cm
+kolor obramowania?4
+styl obramowania?6 6. "ridge" - obramowanie w postaci linii z grzbietem
+----------
+szerokoœæ 350pt
+wysokoœæ 2cm
+kolor obramowania?7
+styl obramowania?6 6. "ridge" - obramowanie w postaci linii z grzbietem
+
+1)black
+#000000
+
+2)silver
+#C0C0C0
+
+3)gray
+#808080
+
+4)maroon
+#800000
+
+5)red
+#FF0000
+
+6)purple
+#800080
+
+7)fuchsia
+#FF00FF
+
+8)green
+#008000
+
+9)lime
+#00FF00
+
+10)olive
+#808000
+
+11)yellow
+#FFFF00
+
+12)navy
+#000080
+
+13)blue
+#0000FF
+
+14)teal
+#008080
+
+15)aqua
+#00FFFF
