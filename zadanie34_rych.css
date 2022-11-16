@@ -1,4 +1,7 @@
 h3 {
+position: fixed;
+  top: 11.5cm;
+  right: 0cm;
 width: 350pt;
 height: 2cm;
 padding : 20px;
