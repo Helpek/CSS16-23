@@ -1,0 +1,18 @@
+body{
+	background-color:gray;
+}
+p
+{
+font-size:14pt;
+color:blue;
+}
+p:lang(pl)
+{
+font-weight:bold;
+color:silver;
+}
+p:lang(en)
+{
+color:lime;
+font-style:italic;
+}
